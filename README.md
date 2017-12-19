@@ -8,4 +8,4 @@
 
 1-3.输入并选择： Shell Command: install 'code' command in PATH
 
-1-4. 打开命令行，输入*code .*就打开了vscode
+1-4. 打开命令行，输入 *code .* 就打开了vscode
