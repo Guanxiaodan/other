@@ -11,7 +11,7 @@
 1-4. 打开命令行，输入 *code .* 就打开了vscode
 
 
-## 2. [服务器数据类型MIME](./aboutServer.md)
+## 2. [服务器数据类型MIME](server/aboutServer.md)
      
 
 ## 3. axios
@@ -20,10 +20,11 @@
 err.response.data
 ```
 
-## 4.[不错的网站](./网站.md)
+## 4.[不错的网站](webSite/网站.md)
 
-## 5.[移动端适配问题](./MobileBugs/适配.md)
+## 5.[移动端适配问题](MobileBugs/适配.md)
 
-## 6.[swiper](./swiper)
+## 6.[swiper](swiper)
 
-## 7.[charles](./Charles/charles.md)
+## 7.[charles](Charles/charles.md)
+
