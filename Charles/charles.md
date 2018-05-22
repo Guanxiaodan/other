@@ -1,5 +1,8 @@
 # Charles
 参考文档： https://www.jianshu.com/p/fb2bdde5b498
+
+   https://www.cnblogs.com/mawenqiangios/p/8270238.html
+   
 > 是一款代理服务器，主要功能是：
 
  > ①：截取HTTP和HTTPS网络封包
@@ -44,6 +47,7 @@
   
   ### 方法一：
    在Filter中输入过滤关键字，如www.baidu.com
+   
    ![filter过滤](./img/filter1.png)
    
   ### 方法二：
