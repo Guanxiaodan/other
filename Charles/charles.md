@@ -38,6 +38,30 @@
  ③：选择Proxy>SSL Proxying Steeings,点击add，添加443端口，点击OK。
  
   ### 3.Charles会自动抓取本机上打开的网页的数据
+  
+  ## 二.过滤请求
+  通常，我们只需要向指定服务器发送的请求，这时候，就需要添加一些过滤条件。有下面几种方法：
+  
+  ### 方法一：
+   在Filter中输入过滤关键字，如www.baidu.com
+   ![filter过滤](./img/filter1.png)
+   
+  ### 方法二：
+   选择 Proxy>Recording Setting>Include>add
+   添加一个项目，填入需要监控的协议，主机地址，端口号。
+   
+  ### 方法三：
+   先算了
+   
+  ## 三. 显示模式
+  Charles有两种显示模式：structure和sequence
+  
+  ### 1.Structure
+   优点：可以很清晰的看到请求的数据结构，且是以域名划分请求信息，可以清晰的分析处理数据。
+  ### 2.Sequence
+   优点： 可以看到全部请求，这里的结果一数据的请求顺序来显示，最新请求的数据显示在最下面
+  每个sequence都有size，status等属性可以方便的定位这个请求的价值。
+  
  
  
  
