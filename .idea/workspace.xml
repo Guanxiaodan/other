@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3157312e-3273-4c4f-ae15-b24a6543e304" name="Default" comment="" />
+    <list default="true" id="3157312e-3273-4c4f-ae15-b24a6543e304" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileBugs/img/inputdelete.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MobileBugs/适配.md" afterPath="$PROJECT_DIR$/MobileBugs/适配.md" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -19,13 +23,14 @@
         <entry file="file://$PROJECT_DIR$/MobileBugs/适配.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="303">
-                <caret line="73" column="11" lean-forward="true" selection-start-line="73" selection-start-column="11" selection-end-line="73" selection-end-column="11" />
+              <first_editor relative-caret-position="327">
+                <caret line="113" column="34" lean-forward="true" selection-start-line="113" selection-start-column="34" selection-end-line="113" selection-end-column="34" />
                 <folding>
-                  <marker date="1527155984781" expanded="true" signature="1087:1126" ph="{...}" />
-                  <marker date="1527155984781" expanded="true" signature="1132:1169" ph="{...}" />
-                  <marker date="1527155984781" expanded="true" signature="1412:1439" ph="{...}" />
-                  <marker date="1527155984781" expanded="true" signature="1670:1753" ph="{...}" />
+                  <marker date="1527156882947" expanded="true" signature="162:189" ph="{...}" />
+                  <marker date="1527156882947" expanded="true" signature="420:503" ph="{...}" />
+                  <marker date="1527156882947" expanded="true" signature="983:1022" ph="{...}" />
+                  <marker date="1527156882947" expanded="true" signature="1028:1065" ph="{...}" />
+                  <marker date="1527156882947" expanded="true" signature="2110:2160" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -132,14 +137,15 @@
     <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MobileBugs/img" />
+      <recent name="$PROJECT_DIR$/Charles/img" />
+      <recent name="$PROJECT_DIR$/MobileBugs" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/webSite" />
       <recent name="$PROJECT_DIR$/server" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Charles/img" />
-      <recent name="$PROJECT_DIR$/MobileBugs" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -242,12 +248,12 @@
       <workItem from="1526975527509" duration="6058000" />
       <workItem from="1526982694428" duration="217000" />
       <workItem from="1527046479060" duration="1730000" />
-      <workItem from="1527153240256" duration="2794000" />
+      <workItem from="1527153240256" duration="3637000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16175000" />
+    <option name="totallyTimeSpent" value="17018000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="6" />
@@ -397,13 +403,14 @@
     <entry file="file://$PROJECT_DIR$/MobileBugs/适配.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="303">
-            <caret line="73" column="11" lean-forward="true" selection-start-line="73" selection-start-column="11" selection-end-line="73" selection-end-column="11" />
+          <first_editor relative-caret-position="327">
+            <caret line="113" column="34" lean-forward="true" selection-start-line="113" selection-start-column="34" selection-end-line="113" selection-end-column="34" />
             <folding>
-              <marker date="1527155984781" expanded="true" signature="1087:1126" ph="{...}" />
-              <marker date="1527155984781" expanded="true" signature="1132:1169" ph="{...}" />
-              <marker date="1527155984781" expanded="true" signature="1412:1439" ph="{...}" />
-              <marker date="1527155984781" expanded="true" signature="1670:1753" ph="{...}" />
+              <marker date="1527156882947" expanded="true" signature="162:189" ph="{...}" />
+              <marker date="1527156882947" expanded="true" signature="420:503" ph="{...}" />
+              <marker date="1527156882947" expanded="true" signature="983:1022" ph="{...}" />
+              <marker date="1527156882947" expanded="true" signature="1028:1065" ph="{...}" />
+              <marker date="1527156882947" expanded="true" signature="2110:2160" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
