@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3157312e-3273-4c4f-ae15-b24a6543e304" name="Default" comment="" />
+    <list default="true" id="3157312e-3273-4c4f-ae15-b24a6543e304" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobileBugs/适配_back.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,19 +18,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="适配.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MobileBugs/适配.md">
+      <file leaf-file-name="适配_back.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MobileBugs/适配_back.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="290">
-                <caret line="114" column="27" lean-forward="true" selection-start-line="114" selection-start-column="27" selection-end-line="114" selection-end-column="27" />
+              <first_editor relative-caret-position="398">
+                <caret line="88" column="35" lean-forward="false" selection-start-line="88" selection-start-column="35" selection-end-line="88" selection-end-column="35" />
                 <folding>
-                  <marker date="1527217839758" expanded="true" signature="162:189" ph="{...}" />
-                  <marker date="1527217839758" expanded="true" signature="420:503" ph="{...}" />
-                  <marker date="1527217839758" expanded="true" signature="861:907" ph="//..." />
-                  <marker date="1527217839758" expanded="true" signature="944:983" ph="{...}" />
-                  <marker date="1527217839758" expanded="true" signature="989:1026" ph="{...}" />
-                  <marker date="1527217839758" expanded="true" signature="2530:2580" ph="{...}" />
+                  <marker date="1528257962168" expanded="true" signature="162:189" ph="{...}" />
+                  <marker date="1528257962168" expanded="true" signature="420:503" ph="{...}" />
+                  <marker date="1528257962168" expanded="true" signature="803:849" ph="//..." />
+                  <marker date="1528257962168" expanded="true" signature="886:925" ph="{...}" />
+                  <marker date="1528257962168" expanded="true" signature="931:968" ph="{...}" />
+                  <marker date="1528257962168" expanded="true" signature="1368:1418" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -48,7 +51,11 @@
     <findStrings>
       <find>软键盘</find>
       <find>蒙版</find>
+      <find>QQ</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/MobileBugs</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,6 +70,8 @@
         <option value="$PROJECT_DIR$/server/MVC.md" />
         <option value="$PROJECT_DIR$/server/js.js" />
         <option value="$PROJECT_DIR$/MobileBugs/适配.md" />
+        <option value="$PROJECT_DIR$/webSite/网站.md" />
+        <option value="$PROJECT_DIR$/MobileBugs/适配_back.md" />
       </list>
     </option>
   </component>
@@ -79,7 +88,7 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -92,7 +101,94 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="other" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="other" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="other" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="other" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webSite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="other" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="other" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="swiper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="other" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="other" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="other" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="other" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MobileBugs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="other" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="other" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Charles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
@@ -109,15 +205,15 @@
     <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/MobileBugs/img" />
-      <recent name="$PROJECT_DIR$/Charles/img" />
-      <recent name="$PROJECT_DIR$/MobileBugs" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/webSite" />
       <recent name="$PROJECT_DIR$/server" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MobileBugs" />
+      <recent name="$PROJECT_DIR$/MobileBugs/img" />
+      <recent name="$PROJECT_DIR$/Charles/img" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -222,17 +318,20 @@
       <workItem from="1527046479060" duration="1730000" />
       <workItem from="1527153240256" duration="4688000" />
       <workItem from="1527213454880" duration="7228000" />
+      <workItem from="1527566185038" duration="59000" />
+      <workItem from="1528192302049" duration="2198000" />
+      <workItem from="1528251511873" duration="4359000" />
+      <workItem from="1530610724547" duration="40000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25297000" />
+    <option name="totallyTimeSpent" value="31953000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="709" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="709" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -279,19 +378,57 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MobileBugs/适配.md">
+    <entry file="file://$PROJECT_DIR$/MobileBugs/适配_back.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding>
-              <marker date="1527217839758" expanded="true" signature="162:189" ph="{...}" />
-              <marker date="1527217839758" expanded="true" signature="420:503" ph="{...}" />
-              <marker date="1527217839758" expanded="true" signature="861:907" ph="//..." />
-              <marker date="1527217839758" expanded="true" signature="944:983" ph="{...}" />
-              <marker date="1527217839758" expanded="true" signature="989:1026" ph="{...}" />
-              <marker date="1527217839758" expanded="true" signature="2530:2580" ph="{...}" />
+              <marker date="1528257962168" expanded="true" signature="162:189" ph="{...}" />
+              <marker date="1528257962168" expanded="true" signature="420:503" ph="{...}" />
+              <marker date="1528257962168" expanded="true" signature="803:849" ph="//..." />
+              <marker date="1528257962168" expanded="true" signature="886:925" ph="{...}" />
+              <marker date="1528257962168" expanded="true" signature="931:968" ph="{...}" />
+              <marker date="1528257962168" expanded="true" signature="1368:1418" ph="{...}" />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileBugs/适配_back.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1528257962168" expanded="true" signature="162:189" ph="{...}" />
+              <marker date="1528257962168" expanded="true" signature="420:503" ph="{...}" />
+              <marker date="1528257962168" expanded="true" signature="803:849" ph="//..." />
+              <marker date="1528257962168" expanded="true" signature="886:925" ph="{...}" />
+              <marker date="1528257962168" expanded="true" signature="931:968" ph="{...}" />
+              <marker date="1528257962168" expanded="true" signature="1368:1418" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileBugs/适配.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileBugs/适配.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           </first_editor>
           <second_editor />
         </state>
@@ -350,16 +487,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webSite/网站.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="21">
-            <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Charles/charles.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -391,18 +518,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/webSite/网站.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="315">
+            <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MobileBugs/适配.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="290">
-            <caret line="114" column="27" lean-forward="true" selection-start-line="114" selection-start-column="27" selection-end-line="114" selection-end-column="27" />
+          <first_editor relative-caret-position="92">
+            <caret line="44" column="45" lean-forward="false" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileBugs/适配_back.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="398">
+            <caret line="88" column="35" lean-forward="false" selection-start-line="88" selection-start-column="35" selection-end-line="88" selection-end-column="35" />
             <folding>
-              <marker date="1527217839758" expanded="true" signature="162:189" ph="{...}" />
-              <marker date="1527217839758" expanded="true" signature="420:503" ph="{...}" />
-              <marker date="1527217839758" expanded="true" signature="861:907" ph="//..." />
-              <marker date="1527217839758" expanded="true" signature="944:983" ph="{...}" />
-              <marker date="1527217839758" expanded="true" signature="989:1026" ph="{...}" />
-              <marker date="1527217839758" expanded="true" signature="2530:2580" ph="{...}" />
+              <marker date="1528257962168" expanded="true" signature="162:189" ph="{...}" />
+              <marker date="1528257962168" expanded="true" signature="420:503" ph="{...}" />
+              <marker date="1528257962168" expanded="true" signature="803:849" ph="//..." />
+              <marker date="1528257962168" expanded="true" signature="886:925" ph="{...}" />
+              <marker date="1528257962168" expanded="true" signature="931:968" ph="{...}" />
+              <marker date="1528257962168" expanded="true" signature="1368:1418" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
